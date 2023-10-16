@@ -7,3 +7,4 @@ The following is my research on AGI
 4. [Artificial General Intelligence Is Not as Imminent as You Might Think](https://www.scientificamerican.com/article/artificial-general-intelligence-is-not-as-imminent-as-you-might-think1/)
 5. [AGI within 12 months](https://www.youtube.com/watch?v=M5eQwl4YmGU)
 6. [Google Deepmind AGI within a "Few years"](https://aibusiness.com/nlp/google-deepmind-ceo-agi-is-coming-in-a-few-years-)
+7. [AI that’s smarter than humans? Americans say a firm “no thank you.”](https://www.vox.com/future-perfect/2023/9/19/23879648/americans-artificial-general-intelligence-ai-policy-poll)
